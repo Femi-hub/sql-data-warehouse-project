@@ -19,7 +19,7 @@
 * ⚠️ This script is intended for development or ETL staging environments, not for production use.
 
 * Author: Oluwafemi Popoola
-* Date: [Insert Date]
+* Date: 23rd July, 2025
 **************************************************************************************************/
 
 if OBJECT_ID('bronze.crm_cust_info') is not null
